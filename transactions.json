@@ -1,0 +1,20 @@
+[
+  {
+    "amount": 750,
+    "category": "Salary",
+    "date": "2024-10-23 00:00:00",
+    "description": "Monthly salary"
+  },
+  {
+    "amount": 250,
+    "category": "Groceries",
+    "date": "2024-11-02 00:00:00",
+    "description": "Weekly groceries"
+  },
+  {
+    "amount": 100,
+    "category": "Vacation",
+    "date": "2024-07-20 00:00:00",
+    "description": "Saving for vacation"
+  }
+]
